@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+mnist1d/
+**/mnist1d_data.pkl
+*.iml
+.idea/
+.ipynb_checkpoints/
