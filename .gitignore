@@ -27,3 +27,4 @@ mnist1d/
 *.iml
 .idea/
 .ipynb_checkpoints/
+__pycache__/
